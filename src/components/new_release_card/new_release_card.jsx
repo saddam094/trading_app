@@ -22,7 +22,7 @@ export const NewReleaseCard = ({ data }) => {
                     </div>
 
                     {/* image */}
-                    <div className="h-36 bg-slate-600 border-white outline rounded-lg">
+                    <div className="h-36 bg-slate-600 border-slate-400 outline rounded-lg">
                         <img src={image} alt="crown" className="h-36 w-40"></img>
                     </div>
                 </div>
