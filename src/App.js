@@ -2,6 +2,7 @@ import { Footer } from './components/footer/footer.jsx';
 import { Header } from './components/header/header.jsx'
 import { Body } from './components/body/body.jsx'
 
+
 function App() {
   return (
     <>

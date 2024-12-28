@@ -1,4 +1,3 @@
-// import { BottumNavbar } from "../bottum_navbar/bottum_navbar";
 import Dashboard from "../dashboard/dashboard";
 import { NewRelease } from "../new_release/new_release";
 import { SearchBar } from "../search_bar/search_bar";
@@ -15,7 +14,6 @@ export const Body = () => {
                 <SearchBar />
 
                 {/* Nav Bar */}
-                {/* <BottumNavbar /> */}
                 <Dashboard /> 
             </div>
         </>
